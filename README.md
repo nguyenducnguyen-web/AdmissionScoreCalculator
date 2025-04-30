@@ -1,2 +1,27 @@
 # AdmissionScoreCalculator
-Develop a tool to estimate early admission scores for various admission methods using the C# language, implemented in Visual Studio, for candidates applying to two universities: the University of Economics Ho Chi Minh City (UEH) and the University of Finance and Marketing (UFM).
+
+## Contents
+
+- [Brief description](#brief-description)
+- [Language and Tools](#language-and-tools)
+- [Project details](#project-details)
+
+
+## Brief description
+
+- Develop a tool to estimate early admission scores for various admission methods using the C# language, implemented in Visual Studio, for candidates applying to two universities: the University of Economics Ho Chi Minh City (UEH) and the University of Finance and Marketing (UFM).
+- Project link (GitHub): [AdmissionScoreCalculator](https://github.com/nguyenducnguyen-web/AdmissionScoreCalculator)
+- Project's author: Nguyen Duc Nguyen & Nguyen Thao My
+
+## Language and Tools
+
+![C# Badge](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff&style=flat)
+![Visual Studio 2022 Badge](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
+
+## Project details
+
+- [Link](https://drive.google.com/file/d/1s_4sEfq_ej8ZZO4X4sXt4F5qtZPAKkAs/view?usp=sharing)
+
+
+
+
