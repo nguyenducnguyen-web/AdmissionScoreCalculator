@@ -20,7 +20,7 @@
 
 ## Project details
 
-- [Link](https://drive.google.com/file/d/1s_4sEfq_ej8ZZO4X4sXt4F5qtZPAKkAs/view?usp=sharing)
+- [Link](https://docs.google.com/document/d/176HAvju0THpkRuU9-YYWTnGrepQ7ZV1p/edit?usp=sharing&ouid=110380848989676522612&rtpof=true&sd=true)
 
 
 
